@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "234224402468",
+    "project_id": "lensme-1e27b",
+    "storage_bucket": "lensme-1e27b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234224402468:android:9cc04378f58b4064b318b1",
+        "android_client_info": {
+          "package_name": "com.example.lensme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234224402468-4lsghktob7s7somkmngj848ro3qh4ccn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lensme",
+            "certificate_hash": "68a3eaac154c68b42891e8cf840a17f5ae82149c"
+          }
+        },
+        {
+          "client_id": "234224402468-senrdeo2vi5tlemasr7cahcqls09dtq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNfSBMMbEnbIbAluqy35kzp_bX1_7seyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234224402468-senrdeo2vi5tlemasr7cahcqls09dtq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
